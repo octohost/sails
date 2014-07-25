@@ -9,7 +9,7 @@ Push this repo to your octohost:
 
 ```
 git clone https://github.com/octohost/sails.git
-cd harp
+cd sails
 git remote add octohost git@ip.address.here:sails.git
 git push octohost master
 ```
